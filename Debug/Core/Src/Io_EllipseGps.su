@@ -1,0 +1,7 @@
+../Core/Src/Io_EllipseGps.c:12:14:Io_EllipseGps_Destroy	16	static
+../Core/Src/Io_EllipseGps.c:18:14:Io_EllipseGps_Read	24	static
+../Core/Src/Io_EllipseGps.c:24:14:Io_EllipseGps_Write	24	static
+../Core/Src/Io_EllipseGps.c:30:14:Io_EllipseGps_Flush	16	static
+../Core/Src/Io_EllipseGps.c:36:14:Io_EllipseGps_LogReceivedCallback	24	static
+../Core/Src/Io_EllipseGps.c:47:14:sbgInterfaceSerialCreate	24	static
+../Core/Src/Io_EllipseGps.c:62:6:Io_EllipseGps_Init	4240	static

@@ -1,0 +1,7 @@
+../Lib/sbgECom/common/streamBuffer/sbgStreamBufferCommon.h:318:19:sbgStreamBufferGetSize	16	static
+../Lib/sbgECom/common/streamBuffer/sbgStreamBufferCommon.h:338:19:sbgStreamBufferGetLength	16	static
+../Lib/sbgECom/common/streamBuffer/sbgStreamBufferCommon.h:357:19:sbgStreamBufferGetSpace	24	static
+../Lib/sbgECom/common/streamBuffer/sbgStreamBufferCommon.h:624:25:sbgStreamBufferReadBuffer	24	static
+../Lib/sbgECom/common/streamBuffer/sbgStreamBufferCommon.h:794:25:sbgStreamBufferWriteBuffer	24	static
+../Lib/sbgECom/src/binaryLogs/sbgEComBinaryLogRawData.c:11:14:sbgEComBinaryLogParseRawData	24	static
+../Lib/sbgECom/src/binaryLogs/sbgEComBinaryLogRawData.c:34:14:sbgEComBinaryLogWriteRawData	16	static

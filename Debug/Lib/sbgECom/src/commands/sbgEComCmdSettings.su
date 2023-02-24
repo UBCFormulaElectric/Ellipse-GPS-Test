@@ -1,0 +1,9 @@
+../Lib/sbgECom/common/streamBuffer/sbgStreamBufferCommon.h:221:25:sbgStreamBufferInitForWrite	24	static
+../Lib/sbgECom/common/streamBuffer/sbgStreamBufferCommon.h:318:19:sbgStreamBufferGetSize	16	static
+../Lib/sbgECom/common/streamBuffer/sbgStreamBufferCommon.h:338:19:sbgStreamBufferGetLength	16	static
+../Lib/sbgECom/common/streamBuffer/sbgStreamBufferCommon.h:357:19:sbgStreamBufferGetSpace	24	static
+../Lib/sbgECom/common/streamBuffer/sbgStreamBufferCommon.h:465:18:sbgStreamBufferGetLinkedBuffer	16	static
+../Lib/sbgECom/common/streamBuffer/sbgStreamBufferCommon.h:710:25:sbgStreamBufferWriteUint8	16	static
+../Lib/sbgECom/src/commands/sbgEComCmdSettings.c:17:14:sbgEComCmdSettingsAction	64	static
+../Lib/sbgECom/src/commands/sbgEComCmdSettings.c:75:14:sbgEComCmdImportSettings	32	static
+../Lib/sbgECom/src/commands/sbgEComCmdSettings.c:83:14:sbgEComCmdExportSettings	32	static

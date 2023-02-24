@@ -1,0 +1,5 @@
+../Lib/sbgECom/common/sbgErrorCodes.h:85:27:sbgErrorCodeToString	16	static
+../Lib/sbgECom/common/platform/sbgPlatform.c:28:29:sbgGetTime	24	static
+../Lib/sbgECom/common/platform/sbgPlatform.c:54:25:sbgSleep	64	static
+../Lib/sbgECom/common/platform/sbgPlatform.c:82:25:sbgCommonLibSetLogCallback	16	static
+../Lib/sbgECom/common/platform/sbgPlatform.c:90:25:sbgPlatformDebugLogMsg	1080	static

@@ -1,0 +1,5 @@
+../Lib/sbgECom/src/defs/sbgEComDefsGnss.c:24:24:sbgEComGetConstellationFromSignalId	24	static
+../Lib/sbgECom/src/defs/sbgEComDefsGnss.c:195:6:sbgEComSignalIdIsValid	16	static
+../Lib/sbgECom/src/defs/sbgEComDefsGnss.c:208:13:sbgEComSignalToStr	24	static
+../Lib/sbgECom/src/defs/sbgEComDefsGnss.c:344:6:sbgEComConstellationIdIsValid	24	static
+../Lib/sbgECom/src/defs/sbgEComDefsGnss.c:366:13:sbgEComConstellationToStr	16	static

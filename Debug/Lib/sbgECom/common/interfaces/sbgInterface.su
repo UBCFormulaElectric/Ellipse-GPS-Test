@@ -1,0 +1,4 @@
+../Lib/sbgECom/common/interfaces/sbgInterface.c:24:6:sbgInterfaceZeroInit	16	static
+../Lib/sbgECom/common/interfaces/sbgInterface.c:34:33:sbgInterfaceDestroy	24	static
+../Lib/sbgECom/common/interfaces/sbgInterface.c:48:13:sbgInterfaceTypeGetAsString	32	static
+../Lib/sbgECom/common/interfaces/sbgInterface.c:63:6:sbgInterfaceNameSet	24	static

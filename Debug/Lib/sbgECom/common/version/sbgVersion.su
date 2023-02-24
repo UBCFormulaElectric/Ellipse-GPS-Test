@@ -1,0 +1,14 @@
+../Lib/sbgECom/common/version/sbgVersion.h:223:17:sbgVersionIsUsingSoftwareScheme	24	static
+../Lib/sbgECom/common/version/sbgVersion.c:12:25:sbgVersionCreateBasic	16	static
+../Lib/sbgECom/common/version/sbgVersion.c:27:25:sbgVersionCreateSoftware	16	static
+../Lib/sbgECom/common/version/sbgVersion.c:43:25:sbgVersionConstructCopy	16	static
+../Lib/sbgECom/common/version/sbgVersion.c:63:25:sbgVersionDecode	16	static
+../Lib/sbgECom/common/version/sbgVersion.c:112:29:sbgVersionEncode	24	static
+../Lib/sbgECom/common/version/sbgVersion.c:153:28:sbgVersionCompare	32	static
+../Lib/sbgECom/common/version/sbgVersion.c:244:28:sbgVersionCompareEncoded	40	static
+../Lib/sbgECom/common/version/sbgVersion.c:261:28:sbgVersionIsWithinRange	32	static
+../Lib/sbgECom/common/version/sbgVersion.c:273:28:sbgVersionIsWithinRangeEncoded	32	static
+../Lib/sbgECom/common/version/sbgVersion.c:305:33:sbgVersionToString	40	static
+../Lib/sbgECom/common/version/sbgVersion.c:393:33:sbgVersionToStringEncoded	32	static
+../Lib/sbgECom/common/version/sbgVersion.c:412:33:sbgVersionFromString	80	static
+../Lib/sbgECom/common/version/sbgVersion.c:525:33:sbgVersionFromStringEncoded	32	static

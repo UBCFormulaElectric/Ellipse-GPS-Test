@@ -1,0 +1,9 @@
+../Lib/sbgECom/common/interfaces/sbgInterfaceFile.c:18:14:sbgInterfaceFileGetDesc	16	static
+../Lib/sbgECom/common/interfaces/sbgInterfaceFile.c:33:21:sbgInterfaceFileDestroy	24	static
+../Lib/sbgECom/common/interfaces/sbgInterfaceFile.c:56:21:sbgInterfaceFileWrite	32	static
+../Lib/sbgECom/common/interfaces/sbgInterfaceFile.c:92:21:sbgInterfaceFileRead	48	static
+../Lib/sbgECom/common/interfaces/sbgInterfaceFile.c:134:21:sbgInterfaceFileFlush	32	static
+../Lib/sbgECom/common/interfaces/sbgInterfaceFile.c:172:33:sbgInterfaceFileOpen	24	static
+../Lib/sbgECom/common/interfaces/sbgInterfaceFile.c:225:33:sbgInterfaceFileWriteOpen	24	static
+../Lib/sbgECom/common/interfaces/sbgInterfaceFile.c:273:27:sbgInterfaceFileGetSize	32	static
+../Lib/sbgECom/common/interfaces/sbgInterfaceFile.c:295:27:sbgInterfaceFileGetCursor	24	static

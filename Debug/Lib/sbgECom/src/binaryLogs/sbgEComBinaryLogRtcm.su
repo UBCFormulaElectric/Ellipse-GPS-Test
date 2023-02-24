@@ -1,0 +1,2 @@
+../Lib/sbgECom/src/binaryLogs/sbgEComBinaryLogRtcm.c:11:14:sbgEComBinaryLogParseRtcmRawData	16	static
+../Lib/sbgECom/src/binaryLogs/sbgEComBinaryLogRtcm.c:16:14:sbgEComBinaryLogWriteRtcmRawData	16	static

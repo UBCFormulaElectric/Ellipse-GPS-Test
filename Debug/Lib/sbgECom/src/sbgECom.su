@@ -1,0 +1,9 @@
+../Lib/sbgECom/src/sbgEComIds.h:322:17:sbgEComMsgClassIsALog	16	static
+../Lib/sbgECom/src/sbgECom.c:9:14:sbgEComInit	24	static
+../Lib/sbgECom/src/sbgECom.c:36:14:sbgEComClose	24	static
+../Lib/sbgECom/src/sbgECom.c:50:14:sbgEComHandleOneLog	8240	static
+../Lib/sbgECom/src/sbgECom.c:127:14:sbgEComHandle	24	static
+../Lib/sbgECom/src/sbgECom.c:147:14:sbgEComPurgeIncoming	24	static
+../Lib/sbgECom/src/sbgECom.c:158:6:sbgEComSetReceiveLogCallback	24	static
+../Lib/sbgECom/src/sbgECom.c:169:6:sbgEComSetCmdTrialsAndTimeOut	24	static
+../Lib/sbgECom/src/sbgECom.c:182:6:sbgEComErrorToString	32	static
